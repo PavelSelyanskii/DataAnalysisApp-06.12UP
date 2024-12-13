@@ -1,0 +1,12 @@
+UserName,ActionDate,Action,Category
+John Doe,2024-12-01,Login,Authentication
+Jane Smith,2024-12-01,Viewed Report,Analytics
+John Doe,2024-12-02,Logged Out,Authentication
+Alice Brown,2024-12-01,Edited Profile,Profile Management
+Bob Johnson,2024-12-03,Login,Authentication
+Jane Smith,2024-12-03,Exported Data,Analytics
+Alice Brown,2024-12-03,Deleted Record,Data Management
+John Doe,2024-12-04,Viewed Dashboard,Analytics
+Bob Johnson,2024-12-04,Changed Settings,Profile Management
+Alice Brown,2024-12-05,Login,Authentication
+Jane Smith,2024-12-05,Uploaded File,Data Management
